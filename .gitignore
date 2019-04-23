@@ -1,10 +1,12 @@
 .DS_Store
 *.bin
+model.vec
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 week7/glove.6B/
+glove.*
 # C extensions
 *.so
 
